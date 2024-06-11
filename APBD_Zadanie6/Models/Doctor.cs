@@ -1,11 +1,11 @@
-﻿using APBD_Zadanie_6.Models;
-using APBD_Zadanie6.Models;
+﻿using System.ComponentModel.DataAnnotations;
 
-namespace APBD_Zadanie_6.Models
+namespace APBD_Zadanie6.Models
 {
     public class Doctor
     {
 
+        [Key]
         public int IdDoctor { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }

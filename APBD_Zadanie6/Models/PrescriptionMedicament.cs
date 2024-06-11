@@ -1,6 +1,4 @@
-﻿using APBD_Zadanie6.Models;
-
-namespace APBD_Zadanie_6.Models
+﻿namespace APBD_Zadanie6.Models
 {
     public class PrescriptionMedicament
     {

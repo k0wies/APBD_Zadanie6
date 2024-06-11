@@ -1,8 +1,8 @@
-﻿using APBD_Zadanie_6.Models;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
+﻿using APBD_Zadanie6.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace APBD_Zadanie_6.Configuration
+namespace APBD_Zadanie6.Configuration
 {
     public class DoctorConfig : IEntityTypeConfiguration<Doctor>
     {
