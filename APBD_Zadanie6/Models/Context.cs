@@ -1,4 +1,6 @@
-﻿namespace APBD_Zadanie6.Models
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace APBD_Zadanie6.Models
 {
     public class Context : DbContext
     {

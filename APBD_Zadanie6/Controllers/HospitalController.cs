@@ -1,4 +1,6 @@
-﻿namespace APBD_Zadanie6.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace APBD_Zadanie6.Controllers
 {
     public class HospitalController : ControllerBase
     {
